@@ -9,6 +9,8 @@ source 'https://rubygems.org'
     gem 'jbuilder',     '2.2.3'
     gem 'sdoc',         '0.4.0'
     gem 'tzinfo-data', group: :doc
+    gem 'bcrypt',   '3.1.7'
+
 
     group :development, :test do
       gem 'sqlite3',     '1.3.9'
